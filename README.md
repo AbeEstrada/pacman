@@ -14,7 +14,7 @@ Pac-Man game based on [luciopanepinto/pacman](https://github.com/luciopanepinto/
 ## How to play
 
 ```bash
-git clone [git@github.com:AbeEstrada/pacman.git](git@github.com:AbeEstrada/pacman.git)
+git clone git@github.com:AbeEstrada/pacman.git
 cd pacman
 npx serve
 ```
