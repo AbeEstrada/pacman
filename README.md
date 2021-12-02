@@ -13,6 +13,10 @@ Pac-Man game based on [luciopanepinto/pacman](https://github.com/luciopanepinto/
 
 ## How to play
 
+[https://htmlpacman.netlify.app/](https://htmlpacman.netlify.app/)
+
+or
+
 ```bash
 git clone git@github.com:AbeEstrada/pacman.git
 cd pacman
