@@ -1,4 +1,20 @@
 # Pac-Man
-Pac-Man game written in HTML5 + CSS3 + jQuery with Canvas. This WebApp is a Responsive Web Design (RWD) website.
 
-<a href="https://pacman-e281c.firebaseapp.com">Play game</a>
+Pac-Man game based on [luciopanepinto/pacman](https://github.com/luciopanepinto/pacman)
+
+## Features
+
+-   Removed jQuery
+-   Removed analytics
+-   Removed sounds
+-   Removed intro
+-   Added swipe controls on mobile devices from [masonicGIT/pacman](https://github.com/masonicGIT/pacman)
+
+
+## How to play
+
+```bash
+git clone [git@github.com:AbeEstrada/pacman.git](git@github.com:AbeEstrada/pacman.git)
+cd pacman
+npx serve
+```
